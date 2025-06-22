@@ -57,7 +57,7 @@ All files are located in the `pong game` directory:
 
 ## ▶️ How to Run
 
-1. Ensure all files are inside a folder named `pong game/`
+1. Ensure all files are inside a folder named `pong game`
 2. Open a terminal or IDE in that directory
 3. Run the game using:
 
