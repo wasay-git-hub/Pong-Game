@@ -45,11 +45,10 @@ This is a **2-player Pong Game** built using **Python** and the **Turtle graphic
 
 ## 📁 Project Structure
 
-pong game
-├── main.py<br>
-├── paddle.py<br>
-├── ball.py<br>
-└── scoreboard.py 
+All files are located in the `pong game` directory:
+
+<pre> <br>├── main.py <br>├── paddle.py <br>├── ball.py <br>└── scoreboard.py </pre>
+---
 
 ## 🛠 Requirements
 
@@ -62,3 +61,6 @@ pong game
 2. Open a terminal or IDE in that directory
 3. Run the game using:
 
+
+```bash
+python main.py
